@@ -6,10 +6,8 @@ def prime?(num)
     if(num % x == 0)
       false
     break
-  else
-    true
   end
-  x += 1
+
 end
 
 end
