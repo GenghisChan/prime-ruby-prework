@@ -9,6 +9,7 @@ def prime?(num)
   else
     true
   end
+  x += 1
 end
 
 end
