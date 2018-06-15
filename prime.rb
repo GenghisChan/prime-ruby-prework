@@ -7,7 +7,7 @@ def prime?(num)
       false
     break
   end
-
+x += 1
 end
 
 end
